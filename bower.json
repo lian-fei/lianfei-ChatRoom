@@ -1,0 +1,24 @@
+{
+  "name": "todolists",
+  "description": "",
+  "main": "",
+  "authors": [
+    "lian-fei <3191529561@qq.com>"
+  ],
+  "license": "MIT",
+  "moduleType": [],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "^2.2.2",
+    "angular": "^1.5.3",
+    "bootstrap": "^3.3.6"
+  }
+}
